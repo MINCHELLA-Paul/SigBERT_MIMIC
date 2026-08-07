@@ -119,8 +119,3 @@ This codebase is intended for methodological research and reproducible experimen
 ## Citation
 
 If this repository contributes to scientific work, please cite the associated SigBERT or SigBERT_MIMIC publication when a definitive reference becomes available. The original MIMIC-III database and PhysioNet should also be cited according to their official citation instructions.
-
-## Author
-
-Paul Minchella  
-Research in statistical learning, longitudinal clinical data, and survival analysis.
